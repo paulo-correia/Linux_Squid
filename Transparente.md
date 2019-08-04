@@ -129,8 +129,8 @@ Após todas as configurações, como **root** execute o comando:
 
 **Obs:** Se trocar a regra **http\_access deny all** por **http\_access allow all**, a regra **acl hp\_livres url\_regex "/etc/squid/livres"** e o arquivo **livres** não são mais necessários. (Só será bloqueado os bloqueados)
 
-É necessário fazer o redirecionamento das portas 80 e 443 clicando [aqui](../wiki/index.php/Iptables#Redirecionamento_de_Portas "Iptables")
+É necessário fazer o redirecionamento das portas 80 e 443 clicando [aqui](https://github.com/paulo-correia/Linux_Iptables)
 
 **Obs**: O redirecionamento da porta 443 pode não deixar sites ssl funcionarem corretamente.
 
-Para bloquear sites SSL (Https) clique [aqui](../wiki/index.php/Configura%C3%A7%C3%A3o_do_Squid#Bloqueio_de_Sites_SSL "Configuração do Squid")
+Para bloquear sites SSL (Https) clique [aqui](https://github.com/paulo-correia/Linux_Squid/blob/master/Bloqueio_de_SSL.md)
