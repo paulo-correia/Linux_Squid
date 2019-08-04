@@ -156,8 +156,8 @@ Após todas as configurações, execute o comando:
 
 **Obs:** Se trocar a regra **http\_access deny all** por **http\_access allow all**, a regra **acl hp\_livres url\_regex "/etc/squid/livres"** e o arquivo **livres** não são mais necessários. (Só será bloqueado os bloqueados)
 
-É necessário configurar o proxy no navegador clique [aqui](../wiki/index.php/Configurar_Proxy_no_Navegador "Configurar Proxy no Navegador")
+É necessário configurar o proxy no navegador clique [aqui](https://github.com/paulo-correia/Linux_Squid/blob/master/Configurar_Proxy_no_Navegador.md)
 
-Caso queira pode ser feito o bloqueio das portas 80 e 443 clicando [aqui](../wiki/index.php/Iptables#Bloqueio_de_Portas "Iptables")
+Caso queira pode ser feito o bloqueio das portas 80 e 443 clicando [aqui](https://github.com/paulo-correia/Linux_Iptables)
 
-Para bloquear sites SSL (Https) clique [aqui](../wiki/index.php/Configura%C3%A7%C3%A3o_do_Squid#Bloqueio_de_Sites_SSL "Configuração do Squid")
+Para bloquear sites SSL (Https) clique [aqui](https://github.com/paulo-correia/Linux_Squid/blob/master/Bloqueio_de_SSL.md)
