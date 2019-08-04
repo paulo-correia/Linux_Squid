@@ -1,5 +1,5 @@
 # Squid
-![](http://)
+![](https://github.com/paulo-correia/Linux_Squid/blob/master/Squid_logo.jpg)
 
 O Squid é um servidor proxy que suporta HTTP, HTTPS, FTP e outros.
 
@@ -30,15 +30,15 @@ Edite o arquivo /etc/squid/squid.conf
 
 E escolhendo um dos tipos abaixo :
 
-### Transparente
+### ![Transparente] (https://github.com/paulo-correia/Linux_Squid/blob/master/Transparente.md)
 
-### Configurado no Navegador
+### ![Configurado no Navegador] (https://github.com/paulo-correia/Linux_Squid/blob/master/Configurado_no_Navegador.md)
 
-### Autenticado
+### ![Autenticado](https://github.com/paulo-correia/Linux_Squid/blob/master/Autenticado.md)
 
-### Bloqueio de Sites SSL
+### ![Bloqueio de Sites SSL](https://github.com/paulo-correia/Linux_Squid/blob/master/Bloqueio_de_SSL.md)
 
-## Página de Erro Pesonalizada
+## ![Página de Erro Pesonalizada](https://github.com/paulo-correia/Linux_Squid/blob/master/Pagina_de_Erro_Personalizada.md)
 
 ## Debug
 
