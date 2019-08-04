@@ -30,15 +30,15 @@ Edite o arquivo /etc/squid/squid.conf
 
 E escolhendo um dos tipos abaixo :
 
-### ![Transparente] (https://github.com/paulo-correia/Linux_Squid/blob/master/Transparente.md)
+### [Transparente] (https://github.com/paulo-correia/Linux_Squid/blob/master/Transparente.md)
 
-### ![Configurado no Navegador] (https://github.com/paulo-correia/Linux_Squid/blob/master/Configurado_no_Navegador.md)
+### [Configurado no Navegador] (https://github.com/paulo-correia/Linux_Squid/blob/master/Configurado_no_Navegador.md)
 
-### ![Autenticado](https://github.com/paulo-correia/Linux_Squid/blob/master/Autenticado.md)
+### [Autenticado](https://github.com/paulo-correia/Linux_Squid/blob/master/Autenticado.md)
 
-### ![Bloqueio de Sites SSL](https://github.com/paulo-correia/Linux_Squid/blob/master/Bloqueio_de_SSL.md)
+### [Bloqueio de Sites SSL](https://github.com/paulo-correia/Linux_Squid/blob/master/Bloqueio_de_SSL.md)
 
-## ![Página de Erro Pesonalizada](https://github.com/paulo-correia/Linux_Squid/blob/master/Pagina_de_Erro_Personalizada.md)
+## [Página de Erro Pesonalizada](https://github.com/paulo-correia/Linux_Squid/blob/master/Pagina_de_Erro_Personalizada.md)
 
 ## Debug
 
